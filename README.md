@@ -2,8 +2,7 @@
 A VS Code extension that simulates human-like typing when copying folder structures to a target location.
 
 ## Demo
-
-https://github.com/suryadraco/vs_code_autowrite_extension/raw/main/demo.mp4
+<video src="./demo.mp4" controls width="600"></video>
 
 
 *Watch the extension in action as it types out code character-by-character with human-like delays*
@@ -98,3 +97,4 @@ vsce package
 
 ## License
 MIT
+
