@@ -1,8 +1,10 @@
 # Human Writer
 A VS Code extension that simulates human-like typing when copying folder structures to a target location.
 
-## Demo
-<video src="./demo.mp4" controls width="600"></video>
+## 📦 VS Code Marketplace
+
+Install **HumanWrite Sync** directly from the VS Code Marketplace:  
+https://marketplace.visualstudio.com/items?itemName=JAYASURYAK.humanwrite-sync
 
 
 *Watch the extension in action as it types out code character-by-character with human-like delays*
@@ -21,7 +23,8 @@ A VS Code extension that simulates human-like typing when copying folder structu
 4. Select the **TARGET** folder where you want the files to be written
 5. Watch as the extension recreates the folder structure and types out each file character-by-character!
 
-![Demo Animation](demo.gif)
+![Demo Animation](https://raw.githubusercontent.com/suryadraco/vs_code_autowrite_extension/main/demo%20(1).gif)
+
 
 ## How It Works
 1. The extension scans the source folder recursively
@@ -97,4 +100,5 @@ vsce package
 
 ## License
 MIT
+
 
